@@ -1,4 +1,5 @@
 .. SPDX-License-Identifier: AGPL-3.0-or-later
+Searxng with plugin for evaluating math expressions in search bar
 
 ----
 
